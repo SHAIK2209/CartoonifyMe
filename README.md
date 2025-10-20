@@ -54,15 +54,7 @@ python cartoonify.py
 
 5. **Select an image** from the file dialog and watch the cartoon magic happen! ✨
 
----
 
-## 🖼️ Example Output
-
-| Original                          | Cartoonified                    |
-| --------------------------------- | ------------------------------- |
-| ![Original](example_original.jpg) | ![Cartoon](example_cartoon.jpg) |
-
----
 
 ## 💡 How It Works
 
